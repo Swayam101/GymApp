@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.cardHovering{
+  transition:all 0.7s ease-in-out;
+}
+
+.cardHovering:hover{
+  border-radius: 10%;
+  transform: scale(1.5);
+  transition:all 0.7s ease-in-out;
+}
