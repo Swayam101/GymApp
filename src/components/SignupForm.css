@@ -1,0 +1,17 @@
+.div-card {
+        display: flex;
+        align-items: center;
+        justify-content: flex-end;
+        margin: 0.5rem;       
+}
+
+.submitButton {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+}
+
+.link-login {
+        align-items:'center';
+        text-align: center;
+}
